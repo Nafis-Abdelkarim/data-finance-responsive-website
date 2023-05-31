@@ -12,7 +12,7 @@ const Analytics = () =>{
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias debitis ducimus provident dolorum nobis nam inventore fugiat reprehenderit tenetur numquam. Enim ut dicta praesentium repellendus quaerat doloremque adipisci assumenda quisquam?
                     </p>
-                    <button className="bg-[#000000] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-white">Get Started</button>
+                    <button className="bg-[#000000] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-white md:mx-0">Get Started</button>
                 </div>
             </div>
         </div>
